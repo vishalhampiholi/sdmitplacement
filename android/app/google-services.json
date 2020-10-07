@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831092323959",
+    "firebase_url": "https://sdmitplacement-636ce.firebaseio.com",
+    "project_id": "sdmitplacement-636ce",
+    "storage_bucket": "sdmitplacement-636ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831092323959:android:bb4e79f4416217d12d7872",
+        "android_client_info": {
+          "package_name": "com.example.sdmitplacement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831092323959-90urdqiv2tutcbggpjjdfhu717i2fd27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdmitplacement",
+            "certificate_hash": "5ac3577556d8e93cc0a151e33efc0e2f1866536f"
+          }
+        },
+        {
+          "client_id": "831092323959-kldcti7hj2cj4hevknqk1umo3qtlf5jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaVzTsgdGdwOUQk6SJ9W0YblfNA4ISCe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831092323959-kldcti7hj2cj4hevknqk1umo3qtlf5jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
