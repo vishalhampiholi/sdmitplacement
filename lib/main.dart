@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      _counter++;
+      _counter--;
     });
   }
 
@@ -47,12 +47,16 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You have pushed the button this many times:',
+              'You have pushed the button this many times:'
+                  'and counter has decremented',
             ),
             Text(
               '$_counter',
-
             ),
+            RaisedButton(
+              child:Text('button'),
+              
+            )
           ],
         ),
       ),
